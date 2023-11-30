@@ -16,5 +16,9 @@ items:
 - title: Offres
   target: "/offres/"
   kind: page
-  children: []
+  children:
+  - title: Comprendre le consommateur
+    target: "/offres/comprendre-le-consommateur/"
+    kind: page
+    children: []
 
